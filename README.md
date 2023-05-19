@@ -1,3 +1,3 @@
-Aqui desenvolvo alguns testes de Web Scraping com Python
+Aqui desenvolvo alguns códigos de Web Scraping com Python
 /
-Here he develops some Web Scraping tests with Python
+Here I develop some Web Scraping codes with Python
